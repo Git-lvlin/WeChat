@@ -65,4 +65,13 @@
 - git clone 远程仓库地址  克隆代码到本地
  
 ##分支操作
-- 
+- git branch  查看当前所有分支
+- 当前分支名前有个星号
+- git branch 分支名  创建一个分支
+- git checkout 分支名 切换分支
+- git merge 分支名  合并某分支到当前分支
+- git branch -d 分支名  删除某分支
+- git push origin 分支名  将某个分支提交到远程仓库
+- git pull origin 分支名  将某个分支更新到本地仓库
+## test分支
+.....
