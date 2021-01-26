@@ -73,5 +73,9 @@
 - git branch -d 分支名  删除某分支
 - git push origin 分支名  将某个分支提交到远程仓库
 - git pull origin 分支名  将某个分支更新到本地仓库
+
+##忽略列表
+- 在项目中创建文件 .gitignore
+- 把不需要提交到远程仓库的文件或目录写在忽略列表中
 ## test分支
 .....
